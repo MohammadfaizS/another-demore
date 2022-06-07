@@ -29,6 +29,8 @@ int main()
         std::cout<<array[i]<<" ";
     }
 
+    std::cout<<"huuu huuu huu huu";
+
     // print(array[],arraySize);
     
     return 0;
